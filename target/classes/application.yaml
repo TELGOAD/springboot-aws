@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    bucketName: adityas3bucket
+    account:
+      secretKey: <<your secretKey of your AWS Account>>
+      region: us-east-1
+      accessKey: <<your accessKey of your AWS Account>>
+spring:
+  application:
+    name: springboot-aws
+server:
+  port: 9191
