@@ -2,9 +2,9 @@ cloud:
   aws:
     bucketName: adityas3bucket
     account:
-      secretKey: <<your secretKey of your AWS Account>>
+      secretKey: LyMNNC003E92TGCP4Tp4UCoKegywwww3XHv0QW7fd9HC
       region: us-east-1
-      accessKey: <<your accessKey of your AWS Account>>
+      accessKey: AKIAUGXLJ66NDwwwwwZKHWMBOS
 spring:
   application:
     name: springboot-aws

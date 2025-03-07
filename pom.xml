@@ -8,7 +8,6 @@
 		<version>3.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ashokit</groupId>
 	<artifactId>SpringBoot_AWS_Integration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBoot_AWS_Integration</name>
